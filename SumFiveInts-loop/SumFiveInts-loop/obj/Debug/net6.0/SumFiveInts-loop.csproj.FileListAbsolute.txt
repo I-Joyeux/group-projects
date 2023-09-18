@@ -1,0 +1,14 @@
+C:\Users\joyeu\OneDrive\cwi(C#)\SumFiveInts-loop\SumFiveInts-loop\bin\Debug\net6.0\SumFiveInts-loop.exe
+C:\Users\joyeu\OneDrive\cwi(C#)\SumFiveInts-loop\SumFiveInts-loop\bin\Debug\net6.0\SumFiveInts-loop.deps.json
+C:\Users\joyeu\OneDrive\cwi(C#)\SumFiveInts-loop\SumFiveInts-loop\bin\Debug\net6.0\SumFiveInts-loop.runtimeconfig.json
+C:\Users\joyeu\OneDrive\cwi(C#)\SumFiveInts-loop\SumFiveInts-loop\bin\Debug\net6.0\SumFiveInts-loop.dll
+C:\Users\joyeu\OneDrive\cwi(C#)\SumFiveInts-loop\SumFiveInts-loop\bin\Debug\net6.0\SumFiveInts-loop.pdb
+C:\Users\joyeu\OneDrive\cwi(C#)\SumFiveInts-loop\SumFiveInts-loop\obj\Debug\net6.0\SumFiveInts-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyeu\OneDrive\cwi(C#)\SumFiveInts-loop\SumFiveInts-loop\obj\Debug\net6.0\SumFiveInts-loop.AssemblyInfoInputs.cache
+C:\Users\joyeu\OneDrive\cwi(C#)\SumFiveInts-loop\SumFiveInts-loop\obj\Debug\net6.0\SumFiveInts-loop.AssemblyInfo.cs
+C:\Users\joyeu\OneDrive\cwi(C#)\SumFiveInts-loop\SumFiveInts-loop\obj\Debug\net6.0\SumFiveInts-loop.csproj.CoreCompileInputs.cache
+C:\Users\joyeu\OneDrive\cwi(C#)\SumFiveInts-loop\SumFiveInts-loop\obj\Debug\net6.0\SumFiveInts-loop.dll
+C:\Users\joyeu\OneDrive\cwi(C#)\SumFiveInts-loop\SumFiveInts-loop\obj\Debug\net6.0\refint\SumFiveInts-loop.dll
+C:\Users\joyeu\OneDrive\cwi(C#)\SumFiveInts-loop\SumFiveInts-loop\obj\Debug\net6.0\SumFiveInts-loop.pdb
+C:\Users\joyeu\OneDrive\cwi(C#)\SumFiveInts-loop\SumFiveInts-loop\obj\Debug\net6.0\SumFiveInts-loop.genruntimeconfig.cache
+C:\Users\joyeu\OneDrive\cwi(C#)\SumFiveInts-loop\SumFiveInts-loop\obj\Debug\net6.0\ref\SumFiveInts-loop.dll
